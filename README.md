@@ -41,9 +41,9 @@ This is a first approach on the journey of the Data Engineer. The resources foun
         * Data processing programming
             * Python
                 * Vanilla
-                * + NumPy
-                * + Pandas
-                * + Dask
+                * \+ NumPy
+                * \+ Pandas
+                * \+ Dask
                 * And others
             * Scala
             * Other programming languages

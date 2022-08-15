@@ -36,6 +36,17 @@ This is a first approach on the journey of the Data Engineer. The resources foun
             * AWS Glue
             * Hevo
 * Data processing tools
+    * Old school tools
+        * SQL
+        * Data processing programming
+            * Python
+                * Vanilla
+                * + NumPy
+                * + Pandas
+                * + Dask
+                * And others
+            * Scala
+            * Other programming languages
     * Hadoop suite
         * Hive
         * Spark

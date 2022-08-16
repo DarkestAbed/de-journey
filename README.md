@@ -3,6 +3,10 @@ This is a first approach on the journey of the Data Engineer. The resources foun
 
 ## Contents
 * [Introduction](intro/intro_to_de.md)
+* A data engineer journey
+    * Data engineer vs Cloud engineer
+    * Data engineer vs Data analyst
+    * Data engineer vs Data scientist
 * [Basic tools](basic_tools/)
     * [Linux and the Command Line](basic_tools/linux.md)
         * [Linux environments](basic_tools/linux.md#linux-environments)
@@ -15,10 +19,6 @@ This is a first approach on the journey of the Data Engineer. The resources foun
         * [Why not Windows?](basic_tools/why_not_win.md)
             * [Why not PowerShell?](basic_tools/why_not_win.md#why-not-powershell)
     * [Contenerization and productization](basic_tools/docker.md)
-* A data engineer journey
-    * Data engineer vs Cloud engineer
-    * Data engineer vs Data analyst
-    * Data engineer vs Data scientist
 * Data loading and transformation (ETL/ELT) tools
     * CLI tools
         * cron
